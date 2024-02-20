@@ -193,8 +193,9 @@ footer {
   display: flex;
   justify-content:center;
   padding: 20px;
-  background-color: #fff;
+  background-color: #222222;
   text-align: center;
+  color: white;
 }
 
 .kontakt {
